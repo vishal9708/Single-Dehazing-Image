@@ -1,3 +1,5 @@
 tensorflow==2.8.0
 streamlit
-cv-python
+numpy==1.19.0
+opencv-python
+scipy
