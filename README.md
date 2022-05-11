@@ -12,4 +12,16 @@ better. Our model works for both indoor and outdoor images.
 
 
 
+
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/43999083/167935227-31ce030a-e9a4-4616-97b2-950d833ffafb.png">
+
+
+
+
+To Run  ===>
+
+1. pip install -r requiremts.txt
+2. cd src
+3. python my_example.py
+4. cd ..
+5. streamlit run app.py
